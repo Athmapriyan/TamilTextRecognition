@@ -1,0 +1,12 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Kagglehub downloaded data
+.kagglehub/
+
+# Dataset directory
+data/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
