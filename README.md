@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 **Feel free to connect with me:**
--   [Your LinkedIn Profile]
--   [Your Personal Website/Portfolio]
+- www.linkedin.com/in/athmapriyan-kannan
+- kannanathu07@gmail.com
